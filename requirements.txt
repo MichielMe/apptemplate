@@ -1,0 +1,8 @@
+python-dotenv
+flask
+flask-sqlalchemy
+flask-migrate
+flask-login
+jinja-partials
+beautifulsoup4
+gunicorn
